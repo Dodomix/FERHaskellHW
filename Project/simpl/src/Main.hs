@@ -3,7 +3,7 @@ import Text.ParserCombinators.Parsec hiding (State)
 
 -- Example usage in command line after installed
 -- simpl
--- In <- 5
+-- In := 5
 -- file
 -- test1
 -- END
